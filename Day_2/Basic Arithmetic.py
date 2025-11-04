@@ -1,7 +1,0 @@
-a=int(input("Enter first value:"))
-b=int(input("Enter Second value:"))
-print("the sum of the two numbers:",a+b)
-print("the subtraction of the two numbers:",a-b)
-print("the multiplication of the two numbers:",a*b)
-print("the Division of the two numbers:",a/b)
-print("the reminder of the two numbers:",a%b)
