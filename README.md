@@ -71,9 +71,8 @@ Each day's folder contains:
 
 Feel free to follow my journey, provide feedback, or share your own experiences!
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Profile]
-- Twitter: [@yourhandle]
+- GitHub: [(https://github.com/yourusername)](https://github.com/yohanbabumorla)
+- LinkedIn:   https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BMydaVDKNThaCVnDs%2FUbZwg%3D%3D
 
 ## 📜 License
 
